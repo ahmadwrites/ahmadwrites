@@ -1,5 +1,5 @@
 ﻿## Ahmad - Aspiring Fullstack Developer and UI/UX Hobbyist
-Hello, I am Ahmad - a software engineer working in a US based fintech company. 
+Hello, I am Ahmad - a software engineer working in a large fintech company. 
 I have worked as a web developer in producing websites for many startups, as well as a fullstack engineer in bigger teams.
 Currently, I am open to collaborate on projects or work as a contract/freelance developer.
 - Ahmadhasnol@hotmail.com
