@@ -1,8 +1,8 @@
 ﻿## Ahmad - Fullstack Developer
-Software engineer working in the fintech industry. 
 
-I have years of experience building scalable and modern web applications, for all sorts of clients.
-Currently open to collaborate on projects or work as a contract/freelance developer.
+Versatile fullstack web developer with a passion for crafting quality, 
+user-centric solutions that blend functionality with elegant design.
+
 - Ahmadhasnol@hotmail.com
 --- 
 ## Technologies
